@@ -92,3 +92,6 @@ deploy:
 - type: git
   repo: git@github.com:g33kidd/site.git
   branch: master
+- type: git
+  repo: root@dev.g33kidd.com:github
+  branch: master
